@@ -1,0 +1,42 @@
+.img1,.img2{
+    width:200px;
+    height:200px;
+    margin: 0 30px;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    height: 100vh;
+}
+
+body{
+    background-color: #c76f3c;
+}
+
+.dice{
+    display: inline-block;
+    margin: auto;
+     font-family: "Englebert", cursive;
+
+}
+
+.englebert-regular {
+  font-family: "Englebert", cursive;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.title{
+    font-family: "Englebert", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 5px 0 #232931;
+    font-size: 2.5rem;
+    color: #5c5c28;
+}
+
+.title h3{
+    font-size: 1.5rem;
+    text-shadow: 1px 0 #232931;
+}
